@@ -1,5 +1,5 @@
 # dnrBot
-A fortnite lobby bot written in python using fortnitepy library.
+A fortnite lobby bot written in python using the fortnitepy library.
 
 <h1 align="center">dnrBot</h1>
 <a href="https://www.python.org/downloads/release/python-361/" align="center">
