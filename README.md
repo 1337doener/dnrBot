@@ -1,7 +1,7 @@
 # dnrBot
 A fortnite lobby bot written in python using fortnitepy library.
 
-<h1 align="dnrBot">PartyBot</h1>
+<h1 align="center">dnrBot</h1>
 <a href="https://www.python.org/downloads/release/python-361/" align="center">
         <img alt="Python" src="https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8-blue">
     </a>
