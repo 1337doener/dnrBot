@@ -1,15 +1,6 @@
 # dnrBot
 A fortnite lobby bot written in python using the fortnitepy library.
 
-<h1 align="center">dnrBot</h1>
-<a href="https://www.python.org/downloads/release/python-361/" align="center">
-        <img alt="Python" src="https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8-blue">
-    </a>
-<p align="center">A Fortnite HTTP/XMPP bot coded in Python with party capabilities.</p>
-
-## Discord Support
-<a href="https://discord.gg/UF5AhbttZS"><img src="https://discordapp.com/api/guilds/815909175502307348/widget.png?style=banner2"></a>
-
 ## Installation
 dnrBot requires Python 3.6.1 or greater. If you want Python 3.7 (the recommended version), you can get it from here: [Python 3.7.0 Download](https://www.python.org/ftp/python/3.7.0/python-3.7.0-amd64.exe "Python 3.6.1 Download").
 
